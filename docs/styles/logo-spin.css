@@ -1,0 +1,19 @@
+[title="logo-homepage"] {
+  width: 15rem;
+  height: 15rem;
+  position: relative;
+  display: block;
+  animation: rotation 3s;
+  margin-bottom: 5rem;
+  animation-timing-function: ease-out;
+  animation-iteration-count: infinite;
+  transform-origin: 49.6% 58.8%;
+}
+@keyframes rotation {
+  1% {
+    transform: rotate(0turn);
+  }
+  100% {
+    transform: rotate(3turn);
+  }
+}
