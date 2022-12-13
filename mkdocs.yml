@@ -1,4 +1,8 @@
 site_name: E-Fidget
+repo_url: https://github.com/2231puppy/E-Fidget
+repo_name: E-Fidget Design Source
+edit_uri: https://github.com/2231puppy/E-Fidget-Docs/edit/main/docs/
+site_description: Documentation for the E-Fidget, a haptic feedback fidget spinner
 theme:
   name: material
   palette:
