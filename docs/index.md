@@ -1,6 +1,6 @@
 # Overview
 
-![E-Fidget logo, fidget spinner with circuit board traces running throughout, spinning](/img/logo.svg "logo-homepage")
+![E-Fidget logo, fidget spinner with circuit board traces running throughout, spinning](/img/logo.svg "Logo")
 
 ![license: CERN-OHL-W](https://img.shields.io/github/license/2231puppy/E-Fidget?color=blueviolet&style=flat-square)
 ![email us at micha at e-fidget.xyz](https://img.shields.io/badge/email%20us-micha%40e--fidget.xyz-blue?style=flat-square)
