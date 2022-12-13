@@ -4,7 +4,7 @@
   position: relative;
   display: block;
   animation: rotation 7s;
-  margin-bottom: 5rem;
+  margin-bottom: 2.5rem;
   animation-timing-function: ease-out;
   animation-iteration-count: infinite;
   animation-delay: 2s;
